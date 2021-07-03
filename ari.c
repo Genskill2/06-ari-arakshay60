@@ -33,7 +33,7 @@ string ari(string s) {
 	else if(score==9){return "Ninth Grade";}
 	else if(score==10){return "Tenth Grade";}
 	else if(score==11){return "Eleventh Grade";}
-	else if(score==12){return "TwelfthGrade";}
+	else if(score==12){return "Twelfth Grade";}
 	else if(score==13){return "College student";}
 	else if(score>13){return "Professor";}
 	}
